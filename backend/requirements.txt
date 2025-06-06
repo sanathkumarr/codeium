@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlmodel
+pydantic
+python-multipart
+PyMuPDF
+spacy
+aiofiles
+python-dotenv
